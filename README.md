@@ -3,7 +3,7 @@
 ## Im Sharath Kumar
 Machine Learning enthusiast, having knowledge on Machine Learning, Deep Learning, Android app development. B.E in Information Science.
 
-<img align="right" alt="GIF" src="https://github.com/tnsharath/tnsharath/blob/master/ianim.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://github.com/tnsharath/tnsharath/blob/master/anim.gif" width="400" height="300" />
 
 ### 🔭I’m currently working on
 * Training Deep Learning model to generate a Bollywood song lyrics.
