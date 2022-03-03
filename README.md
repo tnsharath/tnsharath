@@ -19,10 +19,6 @@ Machine Learning enthusiast, having knowledge on Machine Learning, Deep Learning
 * Tensorflow    * Keras   *Sklearn
 * Java * Android app development
 
-### 🤔 I’m looking for help with
-* Get a job in AI Stream.
-* Finding a mentor
-
 ### 📫 How to reach me
 * https://www.linkedin.com/in/tnsharath/
 * tnsharathk@gmail.com
